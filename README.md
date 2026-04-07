@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-End Developer<br>Enthusiastic Front-End Developer with a strong foundation in HTML, CSS, and JavaScript, eager to contribute to innovative projects, UI/UX Enthusiast
+Front-End Developer<br>Enthusiastic Front-End Developer with a strong foundation in HTML, CSS, and JavaScript, eager to contribute to innovative projects, UI/UX Enthusiast, currently dive into React
 
 
 # 💻 Tech Stack:
